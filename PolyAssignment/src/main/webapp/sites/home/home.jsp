@@ -51,7 +51,7 @@ h1.chutitleee {
 					<h1 class="chutitleee">Đấu Phá Thương Khung Phần 5</h1>
 					<p>2022</p>
 					<p>Trung Quốc</p>
-					<p>xuất từ tay Thiên Tằm Thổ Đậu, là một bản tiểu thuyết huyền
+					<p>xuất từ tay Thiên Tằm Thổ Đậu, là một bản tiểu thuyếtt huyền
 						huyễn đăng nhiều kỳ tại Qidian, đã hoàn tất. Với thành tích
 						26535.48 vạn truy cập, quyển sách này giúp Đậu trở thành tác giả
 						cấp Bạch Kim của Qidian.</p>
